@@ -1,8 +1,9 @@
 {
   "name": "yogo-cli-tools",
+  "bin": "./index.js",
   "version": "1.0.0",
   "description": "Personal tools for miscellaneous creations",
-  "main": "./src/app.js",
+  "main": "./index.js",
   "scripts": {
     "test": "jest"
   },
