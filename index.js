@@ -1,4 +1,3 @@
 #!/usr/bin/env node
-
-const app = require('./src/app');
-app();
+const App = require('./src/App');
+const app = new App();
