@@ -5,7 +5,8 @@
   "description": "Personal tools for miscellaneous creations",
   "main": "./index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node index.js"
   },
   "author": "Yuichi Yogo",
   "license": "ISC",
