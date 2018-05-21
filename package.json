@@ -1,0 +1,11 @@
+{
+  "name": "yogo-cli-tools",
+  "version": "1.0.0",
+  "description": "Personal tools for miscellaneous creations",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Yuichi Yogo",
+  "license": "ISC"
+}
