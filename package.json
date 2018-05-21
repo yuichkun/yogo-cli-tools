@@ -2,10 +2,13 @@
   "name": "yogo-cli-tools",
   "version": "1.0.0",
   "description": "Personal tools for miscellaneous creations",
-  "main": "./src/index.js",
+  "main": "./src/app.js",
   "scripts": {
     "test": "jest"
   },
   "author": "Yuichi Yogo",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^22.4.4"
+  }
 }
